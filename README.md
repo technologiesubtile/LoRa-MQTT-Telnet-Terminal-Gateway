@@ -3,7 +3,7 @@ One unique device can be both LoRa to MQTT gateway and LoRa terminal. Fully conf
 
 ![bridge_connected](https://user-images.githubusercontent.com/96028811/162629119-c1c4b502-de61-48bd-827e-73210770e9ab.jpg)
 
-This software turns the above interface for converting messages between LoRa and MQTT, into a versatile and powerful, simultaneous gateway and terminal. It is gateway and terminal in one device.
+This software turns the above interface for converting messages between LoRa and MQTT, into a versatile and powerful, simultaneous gateway and terminal.
 
 ![gateway-terminal_nologo](https://user-images.githubusercontent.com/96028811/162629198-050e7c4e-1648-4000-b565-e1c9c715436e.jpg)
 
